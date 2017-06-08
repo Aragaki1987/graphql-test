@@ -1,4 +1,4 @@
-package graphql;
+package net.marx.graphql;
 
 import static graphql.Scalars.GraphQLInt;
 import static graphql.Scalars.GraphQLString;

@@ -1,4 +1,4 @@
-package entities;
+package net.marx.entities.mock;
 
 public class WatchList {
 	

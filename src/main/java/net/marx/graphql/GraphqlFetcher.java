@@ -1,9 +1,9 @@
-package graphql;
+package net.marx.graphql;
 
 import java.util.List;
 
-import entities.WatchList;
-import entities.mock.WatchListMock;
+import net.marx.entities.mock.WatchList;
+import net.marx.entities.mock.WatchListMock;
 import graphql.schema.DataFetcher;
 import graphql.schema.DataFetchingEnvironment;
 
